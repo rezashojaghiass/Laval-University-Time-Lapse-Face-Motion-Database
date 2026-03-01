@@ -43,6 +43,14 @@ The UL-FMTV database is the largest facial video database in the world in the Mi
 
 ## Applications
 
+## Sample from the Dataset
+
+Below is a sample from the UL-FMTV database after time-lapse, demonstrating the diversity of poses, accessories, and time-lapse scenarios:
+
+![Sample from UL-FMTV](sample.png)
+
+(a) extreme pose with glasses, (b) pose with glasses, (c) mid-profile with glasses, (d) frontal with glasses, (e) frontal, and (f) frontal view after 23 months.
+
 ## Citation
 If you use this database, please cite:
 
