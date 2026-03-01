@@ -43,9 +43,12 @@ The imaging setup used to gather the UL-FMTV face database:
 
 
 ## Usage
-- For research and non-commercial use only
-- [Download the database here](http://vision.gel.ulaval.ca/~ThermalFaces/Restricted/ThermalFaces.zip)
-- Matlab script provided for reading data
+ - For research and non-commercial use only
+ - [Download the database here](http://vision.gel.ulaval.ca/~ThermalFaces/Restricted/ThermalFaces.zip)
+ - Matlab script provided for reading data
+
+## Database Webpage
+ [Visit the official database webpage](http://vision.gel.ulaval.ca/~ThermalFaces/)
 
 ## Applications
 
@@ -55,7 +58,16 @@ Below is a sample from the UL-FMTV database after time-lapse, demonstrating the 
 
 ![Sample from UL-FMTV](sample.png)
 
+
 (a) extreme pose with glasses, (b) pose with glasses, (c) mid-profile with glasses, (d) frontal with glasses, (e) frontal, and (f) frontal view after 23 months.
+
+## Imaging Modalities Example
+
+Below is an example of a subject from UL-FMTV captured in different imaging modalities:
+
+![Imaging Modalities](IR.png)
+
+(a) Visible, (b) SWIR, (c) NIR, (d) LWIR, and (e) MWIR
 
 ## Citation
 If you use this database, please cite:
