@@ -21,14 +21,20 @@ The UL-FMTV database is the largest facial video database in the world in the Mi
 - **Matlab script included**: For easy reading of images and videos
 - **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 
-## Data Acquisition
-- **Cameras used**:
+
+
+## Imaging Setup
+The imaging setup used to gather the UL-FMTV face database:
+
+![Imaging Setup](setup.png)
+
+**Cameras used**:
   - LWIR (Jenoptik, 8000-14000 nm)
   - MWIR (Phoenix Indigo IR, FLIR, 3000-5000 nm)
   - SWIR (Goodrich, 900-1700 nm)
   - NIR/Visible (Mutech, 750-1100 nm)
-- **Available data**: Only MWIR images/videos are publicly available
-- **Sessions**: Multiple sessions per subject, with variations in time-lapse, pose, expression, eyeglasses, and temperature
+**Available data**: Only MWIR images/videos are publicly available
+**Sessions**: Multiple sessions per subject, with variations in time-lapse, pose, expression, eyeglasses, and temperature
 
 ## Database Structure
 - `Genuine/`: 134 subjects (86 males, 48 females), some with multiple sessions and eyeglasses
