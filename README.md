@@ -5,8 +5,7 @@ Reza Shoja Ghiass, Hakim Bendada, Xavier Maldague
 Computer Vision and Systems Laboratory, Laval University, Quebec City, Canada
 
 ## Contact
-- reza.shoja-ghiass.1@ulaval.ca
-- bendada@gel.ulaval.ca
+- reza.shoja@gmail.com
 - maldagx@gel.ulaval.ca
 
 ## Abstract
@@ -39,7 +38,7 @@ The UL-FMTV database is the largest facial video database in the world in the Mi
 
 ## Usage
 - For research and non-commercial use only
-- [Download the database here](http://www.qirt.org/liens/FMTV.htm)
+- [Download the database here](http://vision.gel.ulaval.ca/~ThermalFaces/Restricted/ThermalFaces.zip)
 - Matlab script provided for reading data
 
 ## Applications
@@ -49,8 +48,6 @@ If you use this database, please cite:
 
 Shoja Ghiass, R., Bendada, H., Maldague, X. "Université Laval Face Motion and Time-Lapse Video Database (UL-FMTV)", 14th Quantitative InfraRed Thermography Conference, Berlin, Germany, 2018.
 
-## Acknowledgments
-Supported by NSERC and the Canada Research Chair program. Special thanks to Mr. Matthieu Klein for the Matlab script and Dr. Ognjen Arandjelovic for research support.
 
 ---
 
