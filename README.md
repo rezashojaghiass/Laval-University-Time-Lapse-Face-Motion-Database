@@ -1,12 +1,11 @@
 # Université Laval Face Motion and Time-Lapse Video Database (UL-FMTV)
 
 ## Authors
-Reza Shoja Ghiass, Hakim Bendada, Xavier Maldague  
+Reza Shoja Ghiass
 Computer Vision and Systems Laboratory, Laval University, Quebec City, Canada
 
 ## Contact
 - reza.shoja@gmail.com
-- maldagx@gel.ulaval.ca
 
 ## Abstract
 The UL-FMTV database is the largest facial video database in the world in the Mid-Wave Infrared (MWIR) spectrum. It was created to address the lack of large-scale, multi-session, time-lapse facial video datasets with diverse subjects (ethnicity, age, sex), poses, and expressions. The database contains high-resolution MWIR videos of 238 subjects, collected over several years, and is available for public research use (non-commercial only).
