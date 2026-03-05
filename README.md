@@ -1,7 +1,7 @@
 # Université Laval Face Motion and Time-Lapse Video Database (UL-FMTV)
 
-## Authors
-Reza Shoja Ghiass
+
+Reza Shoja Ghiass, 
 Computer Vision and Systems Laboratory, Laval University, Quebec City, Canada
 
 ## Contact
